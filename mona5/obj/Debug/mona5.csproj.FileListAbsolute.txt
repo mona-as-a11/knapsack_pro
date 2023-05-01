@@ -1,0 +1,20 @@
+c:\users\mts\documents\visual studio 2012\Projects\mona5\mona5\bin\Debug\mona5.exe.config
+C:\Users\MTS\documents\visual studio 2012\Projects\mona5\mona5\bin\Debug\mona5.exe
+C:\Users\MTS\documents\visual studio 2012\Projects\mona5\mona5\bin\Debug\mona5.pdb
+C:\Users\MTS\documents\visual studio 2012\Projects\mona5\mona5\obj\Debug\mona5.csprojResolveAssemblyReference.cache
+C:\Users\MTS\documents\visual studio 2012\Projects\mona5\mona5\obj\Debug\mona5.Form1.resources
+C:\Users\MTS\documents\visual studio 2012\Projects\mona5\mona5\obj\Debug\mona5.Properties.Resources.resources
+C:\Users\MTS\documents\visual studio 2012\Projects\mona5\mona5\obj\Debug\mona5.csproj.GenerateResource.Cache
+C:\Users\MTS\documents\visual studio 2012\Projects\mona5\mona5\obj\Debug\mona5.exe
+C:\Users\MTS\documents\visual studio 2012\Projects\mona5\mona5\obj\Debug\mona5.pdb
+C:\Users\MTS\documents\visual studio 2012\Projects\mona5\mona5\obj\Debug\mona5.Form2.resources
+C:\Users\MTS\Desktop\mona5\mona5\bin\Debug\mona5.exe.config
+C:\Users\MTS\Desktop\mona5\mona5\obj\Debug\mona5.exe
+C:\Users\MTS\Desktop\mona5\mona5\obj\Debug\mona5.pdb
+C:\Users\MTS\Desktop\mona5\mona5\bin\Debug\mona5.exe
+C:\Users\MTS\Desktop\mona5\mona5\bin\Debug\mona5.pdb
+C:\Users\MTS\Desktop\mona5\mona5\obj\Debug\mona5.csprojResolveAssemblyReference.cache
+C:\Users\MTS\Desktop\mona5\mona5\obj\Debug\mona5.Form1.resources
+C:\Users\MTS\Desktop\mona5\mona5\obj\Debug\mona5.Form2.resources
+C:\Users\MTS\Desktop\mona5\mona5\obj\Debug\mona5.Properties.Resources.resources
+C:\Users\MTS\Desktop\mona5\mona5\obj\Debug\mona5.csproj.GenerateResource.Cache
